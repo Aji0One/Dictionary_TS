@@ -1,0 +1,14 @@
+.notify {
+  position: absolute;
+  width: fit-content;
+  text-align: center;
+  margin: 4%;
+  color: red;
+  background-color: rgb(250, 237, 246);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  visibility: visible;
+  right: 3.2%;
+  top: 2.2%;
+  padding: 10px;
+  border-radius: 4px;
+}

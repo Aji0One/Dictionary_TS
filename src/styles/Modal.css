@@ -1,0 +1,47 @@
+.top_con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.myword {
+  font-size: 35px;
+  font-weight: 500;
+}
+.track {
+  cursor: pointer;
+  width: fit-content;
+  padding: 0.25rem;
+  border-radius: 25%;
+}
+
+.list {
+  list-style-type: none;
+  font-size: 23px;
+  font-weight: 300;
+  padding: 0%;
+  margin: 3px;
+}
+
+.lists {
+  font-size: 23px;
+  font-weight: 300;
+}
+.exps {
+  font-size: 18px;
+  list-style-type: circle;
+}
+
+.syn {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ant {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  overflow-y: auto !important;
+}
